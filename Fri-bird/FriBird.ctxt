@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FriBird
+comment0.text=\r\n\ Hra\ FriBird\ je\ in\u0161pirovan\u00E1\ hrou\ flappy\ bird\ (https\://flappybird.io)\r\n\ \r\n\ @author\ Tobi\u00E1\u0161\ Mitala\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Kon\u0161truktor\ vytvor\u00ED\ hru.\r\n
+numComments=2

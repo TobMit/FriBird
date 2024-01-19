@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Prekazky
+comment0.text=\r\n\ Trieda\ generuje\ jednu\ prek\u00E1\u017Eku\ na\ z\u00E1kladne\ vstupn\u00FDch\ parametrov\u0000\r\n\ @version\ 1.0\r\n\ @author\ Tobi\u00E1\u0161\ Mitala\r\n
+comment1.params=hornaPrekazka\ spodnaHranaHornejPrekazky\ sirkaMedziPrkazkami\ hraciePole
+comment1.target=Prekazky(boolean,\ int,\ int,\ HraciePole)
+comment1.text=\r\n\ Kon\u0161truktor\ vytvor\u00ED\ prek\u00E1\u017Eku\ na\ z\u00E1klade\ vstupn\u00FDch\ \u00FAdajov.\u0000\r\n\ @param\ hornaPrekazka\ true\ \u2013\ horn\u00E1,\ false\ \u2013\ doln\u00E1\u0000\r\n\ @param\ spodnaHranaHornejPrekazky\ Ur\u010Duje\ \u010D\u00EDslo\ spodnej\ hrany\ hornej\ prek\u00E1\u017Eky\ \u0000\r\n\ @param\ Ur\u010Duje\ \u0161\u00EDrku\ medzi\ prek\u00E1\u017Ekami\ v\ x\ osi\u0000\r\n
+comment2.params=
+comment2.target=void\ zobraz()
+comment2.text=\r\n\ (Prek\u00E1\u017Eku)\ Zobraz\u00ED.\ \u0000\r\n
+comment3.params=
+comment3.target=void\ skry()
+comment3.text=\r\n\ (Prek\u00E1\u017Eku)\ Skryje.\ \u0000\r\n
+comment4.params=
+comment4.target=void\ posunPrekazky()
+comment4.text=\r\n\ (Prek\u00E1\u017Eku)\ Skryje.\ \u0000\r\n
+comment5.params=
+comment5.target=int\ getPoziciaX()
+comment5.text=\r\n\ (Prek\u00E1\u017Eku)\ Skryje.\ \u0000\r\n
+comment6.params=poziciaBird\ bird
+comment6.target=boolean\ koliduje(int,\ Bird)
+comment6.text=\r\n\ T\u00E1to\ funkcia\ overuje\ \u010Di\ sa\ Bird\ a\ prek\u00E1\u017Eka\ zrazila\u0000.\r\n\ Druhov\ \u00FAlohou\ \ tejto\ funkcie\ je\ vyhodnocova\u0165\ sk\u00F3re.\r\n
+numComments=7

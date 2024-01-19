@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sipky
+comment0.text=\r\n\ Trieda\ vytv\u00E1ra\ \u0161\u00EDpky.\u0000\r\n\ @author\ Tobi\u00E1\u0161\ Mitala\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ smer
+comment1.target=Sipky(int,\ int,\ boolean)
+comment1.text=\r\n\ Kon\u0161truktor\ vytv\u00E1ra\ \u0161\u00EDpku\ na\ zadan\u00FDch\ s\u00FAradniciach.\u0000\r\n\ @param\ smer\ men\u00ED\ smer\ \u0161\u00EDpky\ pod\u013Ea\ \u0000\ true\ -\ vpravo\u0000,\ false\ -\ v\u013Eavo\u0000\r\n\ \r\n\ Ve\u013Ekos\u0165\ obr\u00E1zka\ \u0161\u00EDpky\ je\:\ \u0161\u00EDrka\ 30,\ v\u00FD\u0161ka\ 50\ \r\n
+comment2.params=
+comment2.target=void\ zobraz()
+comment2.text=\r\n\ (Obr\u00E1zok)\ Zobraz\u00ED.\u0000\r\n
+comment3.params=
+comment3.target=void\ skry()
+comment3.text=\r\n\ (Obr\u00E1zok)\ Skryje.\ \u0000\r\n
+numComments=4

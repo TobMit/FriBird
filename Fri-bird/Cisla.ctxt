@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cisla
+comment0.text=\r\n\ Trieda\ na\u010D\u00EDtava\ \u010D\u00EDsla\ zo\ s\u00FAborov\ png.\ \u0000\r\n\ @author\ Tobi\u00E1\u0161\ Mitala\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Cisla()
+comment1.text=\r\n\ Kon\u0161truktor\ na\u010D\u00EDtava\ do\ po\u013Ea\ \ adresy\ \u010D\u00EDsel.\u0000\r\n
+comment2.params=x\ y\ cislo
+comment2.target=void\ zobrazneCislo(int,\ int,\ int)
+comment2.text=\r\n\ Zobraz\u00ED\ zadan\u00E9\ \u010D\u00EDslo\ na\ zadan\u00FDch\ s\u00FAradniciach.\u0000\r\n
+comment3.params=
+comment3.target=void\ zobraz()
+comment3.text=\r\n\ Zobraz\u00ED\r\n
+comment4.params=
+comment4.target=void\ skry()
+comment4.text=\r\n\ Skryje\r\n
+numComments=5

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PozadieObrazok
+comment0.text=\r\n\ Trieda\ zobrazuje\ pozadia\ na\ z\u00E1klade\ situ\u00E1cie\ ak\u00E1\ v\ hre\ nastala,\ alebo\ ak\u00E9\ si\ \r\n\ pou\u017E\u00EDvate\u013E\ vybral.\ PozadieObr\u00E1zok\ je\ naprogramovan\u00E1\ na\ \u013Eubovo\u013En\u00FD\ po\u010Det\ pozad\u00ED\ \r\n\ v\ rozmeroch\ 300x600\ (\u0161\u00EDrka,\ v\u00FD\u0161ka).\ Treba\ len\ zmeni\u0165\ hodnotu\ POCET_POZADI\ na\ po\u017Eadovan\u00FD\ \r\n\ po\u010Det.\ <br\ />\u0000\r\n\ N\u00E1zov\ pozadia\ v\u017Edy\ mus\u00ED\ by\u0165\:\ Pozadie-1-poradove_cislo.png\u0000\r\n\ @version\ 2.1\r\n
+comment1.params=
+comment1.target=PozadieObrazok()
+comment2.params=
+comment2.target=void\ zobrazHlinu()
+comment2.text=\r\n\ (Obr\u00E1zok)\ Zobraz\u00ED.\u0000\r\n
+comment3.params=
+comment3.target=void\ skryHlinu()
+comment3.text=\r\n\ (Obr\u00E1zok)\ Skryje.\u0000\r\n
+comment4.params=
+comment4.target=void\ zobrazHlinuHraBezi()
+comment4.text=\r\n\ (Obr\u00E1zok)\ Zobraz\u00ED.\u0000\r\n
+comment5.params=
+comment5.target=void\ skryHlinuHraBezi()
+comment5.text=\r\n\ (Obr\u00E1zok)\ Skryje.\u0000\r\n
+comment6.params=
+comment6.target=void\ zobrazHlinuPauza()
+comment6.text=\r\n\ (Obr\u00E1zok)\ Zobraz\u00ED.\u0000\r\n
+comment7.params=
+comment7.target=void\ skryHlinuPauza()
+comment7.text=\r\n\ (Obr\u00E1zok)\ Skryje.\u0000\r\n
+comment8.params=smer
+comment8.target=void\ zemnPozadie(boolean)
+comment8.text=Met\u00F3da\ men\u00ED\ pozadie.\ \r\n\ Ma\ aj\ overenie\ aby\ nebolo\ poradie\ pozadia\ v\u00E4\u010D\u0161ie\ ako\ je\ skuto\u010Dne\ na\u010D\u00EDtan\u00FDch\ pozad\u00ED.\ \u0000\r\n\ @param\ smer\ zmen\u00ED\ smer\ pod\u013Ea\ hodnoty\r\n\ true\ -\ dal\u0161\u00ED,\ false\ -\ predch\u00E1dzaj\u00FAci\r\n
+numComments=9
